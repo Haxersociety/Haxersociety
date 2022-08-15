@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Haxersociety
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Kotlin and JavaScript
-- 📫 You can write to me at leonid74leonid@mail.ru
+- JavaScript developer.
+- Mail: leonid74leonid@mail.ru
+- At the moment I work at BIMEND as a javascript developer
